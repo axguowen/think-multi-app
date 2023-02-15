@@ -1,11 +1,11 @@
 {
-    "name": "topthink/think-multi-app",
+    "name": "axguowen/think-multi-app",
     "description": "thinkphp6 multi app support for PHP5.6",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "axguowen",
+            "email": "axguowen@qq.com"
         }
     ],
     "require": {
