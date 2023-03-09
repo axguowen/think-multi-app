@@ -59,7 +59,7 @@ class Build extends Command
      * @param  array  $list 目录结构
      * @return void
      */
-    protected function buildApp($app, $list = [])
+    protected function buildApp($app, array $list = [])
     {
         if (!is_dir($this->basePath . $app)) {
             // 创建应用目录
